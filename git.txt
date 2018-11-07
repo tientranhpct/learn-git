@@ -1,15 +1,17 @@
-git init
-git status
-git add
-git commit
+git init - chay khi lan tao project
+git status - kiem tra trang thai project
+git add - add file da sua doi hoc them moi
+git commit - commit file len git
 
-git log
-git show
-git diff
+git log - kiem tra cac lich su da thay doi cua file
+git show - hien thi chi tiet lich su thay doi phai
+git diff - kiem tra nhung thay doi chua duoc commit
 
 working directory
 staging area
 git repository
 
-git checkout
-git reset
+git checkout - 
+git reset - 
+
+git checkout -b ten-nhanh-moi - tao nhanh moi
