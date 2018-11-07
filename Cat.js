@@ -4,5 +4,8 @@ let cat = function(_name, _color) {
 	this.stomach = [];
 	this.eat: function(mouse) {
 		stomach.push(mouse);
+	};
+	this.speak: function() {
+		console.log('meo meo');
 	}
 }
