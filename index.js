@@ -1,0 +1,1 @@
+console.log('Day la file index vua duoc tao moi');
